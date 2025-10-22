@@ -101,3 +101,16 @@ Could improve model accuracy and interpretability.
 5 Ensemble Methods:
 Combine multiple models (stacking, voting classifiers) to improve predictive performance.
 Example: Logistic Regression + XGBoost + Random Forest ensemble.
+
+**How to Run**
+1.Clone the repository:
+git clone https://github.com/ravaliamaraj13/Breast_cancer_prediction.git 
+2.Install dependencies:
+pip install -r requirements.txt
+3.Place breast_cancer.csv in the project folder
+4.Run the script or notebook:
+python breast_cancer_prediction.py
+5.Check outputs:
+Accuracy and metrics
+Confusion matrices
+Feature importance plots.
